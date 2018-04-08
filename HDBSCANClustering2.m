@@ -57,8 +57,6 @@ for i = 1:max(idx)
     C(i,:) = mean(X(idx==i,:));
 end
 
-% END HDBSCAN %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 
 
 end
