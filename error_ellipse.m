@@ -1,5 +1,4 @@
 function k = error_ellipse(data)
-	% ANVÄNDS: error_ellipse(X(idx==scInd,:))
 
 
     % Calculate the eigenvectors and eigenvalues
