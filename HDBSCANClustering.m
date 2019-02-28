@@ -57,7 +57,7 @@ for i = 1:max(idx)
     C(i,:) = mean(X(idx==i,:));
 end
 
-% END HDBSCAN %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% END HDBSCAN %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 numSC = max(idx);
 num_clusters = numSC;
